@@ -1,5 +1,5 @@
 
-live liknk: https://speed-test01.vercel.app/
+Live link: https://speed-test01.vercel.app/
 
 # React + Vite
 
